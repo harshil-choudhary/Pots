@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "708866124669",
+    "firebase_url": "https://pots-2099c.firebaseio.com",
+    "project_id": "pots-2099c",
+    "storage_bucket": "pots-2099c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708866124669:android:6efa875921488abf31fa14",
+        "android_client_info": {
+          "package_name": "app.pots.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708866124669-v7lso01ckijku7188f9fe9abcu13he8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ZeeGox_CcNl74ys9jCoqgpMKfOgdoEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708866124669-v7lso01ckijku7188f9fe9abcu13he8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
